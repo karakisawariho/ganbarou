@@ -1,4 +1,4 @@
-var who66='wold';
+var who66='が来た';
 function sayhello66(){
  alert('Hello,'+who66+'!');
 }
