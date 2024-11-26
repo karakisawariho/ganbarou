@@ -1,3 +1,4 @@
+function imgchange1(){
 document.getElementById('logo').src= './image/abm00014922.jpg';
 }
 function imgchange2(){
