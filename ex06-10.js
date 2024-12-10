@@ -1,6 +1,3 @@
-function imgchange1(){
-document.getElementById('logo').src= './image/abm00014922.jpg';
-}
-function imgchange2(){
-  document.getElementById('logo').src='./image/josai_logo.jpg';
-}
+function imgchange1(){document.getElementById('mark').src='./image/hiraku.png';}
+function imgchange2(){document.getElementById('mark').src='./image/yorime.png';}
+
