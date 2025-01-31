@@ -1,6 +1,6 @@
 function imgchange3() {
-    document.getElementById('logo').src = './image/abm00014922.jpg';
+    document.getElementById('logo').src = './image/josai_logo.jpg';
 }
 function imgchange4() {
-    document.getElementById('logo').src = './image/josai_logo.jpg';
+    document.getElementById('logo').src = './image/abm00014922.jpg';
 }
